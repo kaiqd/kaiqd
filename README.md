@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Java and Spring framework, looking forward to study front-end development.<br>
+I'm currently learning Swift and developing iOS apps with SwiftUI<br>
 
 
 # 💻 Tech Stack:
