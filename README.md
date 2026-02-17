@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaique Diniz</h1>
+<!-- <h1 align="center">Hi 👋, I'm Kaique Diniz</h1>
 <h3 align="center">A full stack developer from Brazil</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaiqd" alt="kaiqd" /></a> </p>
@@ -20,4 +20,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kaiqd&show_icons=true&locale=en&layout=compact" alt="kaiqd" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kaiqd&show_icons=true&locale=en" alt="kaiqd" /></p>
-
+ -->
